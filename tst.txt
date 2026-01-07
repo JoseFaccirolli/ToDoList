@@ -1,3 +1,5 @@
+(Ignore, coisa de Ubuntu (Linux))
+
 Rode no terminal {
 nano ~/.bashrc
 }
